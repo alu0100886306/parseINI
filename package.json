@@ -1,0 +1,11 @@
+{
+  "name": "@alu0100886306/parseINI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parseINI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alu0100886306",
+  "license": "ISC"
+}
